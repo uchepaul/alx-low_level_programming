@@ -1,1 +1,1 @@
-my first readme file
+ALX pointers arrays strings
